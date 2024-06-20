@@ -1,0 +1,12 @@
+--[[
+Made by: space_0999
+Discord Server: https://discord.gg/SKhamGzTdn
+Support: Mobile/Pc
+]]--
+ 
+getgenv().Prediction = 0.165
+getgenv().AimPart = "HumanoidRootPart"  
+getgenv().Key = "q" 
+getgenv().AutoPrediction = true 
+ 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/elxocasXD/Trip-Hub/main/Scripts/Cam%20Lock.lua'))()
