@@ -78,7 +78,7 @@ iconLabel.TextStrokeTransparency = 1
 iconLabel.ZIndex = 11
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
-Title = "ONLY WORKS ON SAITAMA",
+Title = "MUST USE SAITAMA BEFORE CLICKING ON KING OF CURSES",
 Text = "Made By sxz", 
 
 Button1 = "bet",
