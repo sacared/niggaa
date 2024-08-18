@@ -77,6 +77,14 @@ iconLabel.Size = UDim2.new(1, -56, 0, 7)
 iconLabel.TextStrokeTransparency = 1
 iconLabel.ZIndex = 11
 
+game:GetService("StarterGui"):SetCore("SendNotification",{
+Title = "ONLY WORKS ON SAITAMA",
+Text = "Made By sxz", 
+
+Button1 = "bet",
+Button2 = "heahea",
+Duration = 30 
+})
 
 
 local function onErrorNotification()
